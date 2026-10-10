@@ -1,16 +1,16 @@
 # Hi there, I'm Atul Kumar 👋
 
-**Senior Software Engineer & DevOps Enthusiast** based in Gurgaon, India[cite: 1].  
-Specializing in robust backend architectures (**Python / Django / FastAPI**)[cite: 1], production-grade **AI/LLM integrations**[cite: 1], and **DevOps automation**[cite: 1] to deliver scalable, end-to-end web platforms[cite: 1].
+**Senior Software Engineer & DevOps Enthusiast** based in Gurgaon, India.  
+Specializing in robust backend architectures (**Python / Django / FastAPI**), production-grade **AI/LLM integrations**, and **DevOps automation** to deliver scalable, end-to-end web platforms.
 
 ---
 
 ### 🚀 What I Do
 
-- ⚙️ **Backend & Architecture:** 8+ years designing scalable RESTful APIs, relational/NoSQL schemas, and secure authentication (Keycloak, OAuth)[cite: 1, 2].
-- 🤖 **Applied AI & LLMs:** Production integration of LLMs (Ollama, OpenAI, Gemini) for document triage, sentiment analysis, and multi-modal complaint workflows[cite: 1].
-- ☁️ **DevOps & Cloud:** Containerizing distributed microservices with **Docker**, deploying cloud infrastructure on **AWS**, managing CI/CD pipelines, and streamlining Linux server environments[cite: 1].
-- 🤝 **End-to-End Delivery:** Translating business requirements directly into production-ready software with structured testing and observability[cite: 1, 2].
+- ⚙️ **Backend & Architecture:** 8+ years designing scalable RESTful APIs, relational/NoSQL schemas, and secure authentication (Keycloak, OAuth).
+- 🤖 **Applied AI & LLMs:** Production integration of LLMs (Ollama, OpenAI, Gemini) for document triage, sentiment analysis, and multi-modal complaint workflows.
+- ☁️ **DevOps & Cloud:** Containerizing distributed microservices with **Docker**, deploying cloud infrastructure on **AWS**, managing CI/CD pipelines, and streamlining Linux server environments.
+- 🤝 **End-to-End Delivery:** Translating business requirements directly into production-ready software with structured testing and observability.
 
 ---
 
@@ -47,9 +47,9 @@ Specializing in robust backend architectures (**Python / Django / FastAPI**)[cit
 
 ### 📌 Highlighted Projects & Solutions
 
-- **AI-Powered Multi-Modal Triage System:** Engineered a complaint classification platform integrating local LLMs (Ollama) and OpenAI to parse voice, image, and PDF inputs with human-in-the-loop review[cite: 1, 2].
-- **Internal Monitoring & Operations Tools:** Developed Python/FastAPI microservices featuring Keycloak authentication, SQL Server integration, and real-time status diagnostics[cite: 2].
-- **Cloud-Native Deployments:** Containerized multi-tier web applications using Docker, implementing persistent volumes, reverse proxies, and automated environment provisioning[cite: 1].
+- **AI-Powered Multi-Modal Triage System:** Engineered a complaint classification platform integrating local LLMs (Ollama) and OpenAI to parse voice, image, and PDF inputs with human-in-the-loop review.
+- **Internal Monitoring & Operations Tools:** Developed Python/FastAPI microservices featuring Keycloak authentication, SQL Server integration, and real-time status diagnostics.
+- **Cloud-Native Deployments:** Containerized multi-tier web applications using Docker, implementing persistent volumes, reverse proxies, and automated environment provisioning.
 
 ---
 
@@ -65,5 +65,5 @@ Specializing in robust backend architectures (**Python / Django / FastAPI**)[cit
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/Email-atul.9334kumar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.9334kumar@gmail.com)[cite: 1]
-[![Location](https://img.shields.io/badge/Location-Gurgaon%2C%20India-lightgrey?style=flat-square&logo=google-maps&logoColor=red)](https://maps.google.com)[cite: 1]
+[![Email](https://img.shields.io/badge/Email-atul.9334kumar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.9334kumar@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Gurgaon%2C%20India-lightgrey?style=flat-square&logo=google-maps&logoColor=red)](https://maps.google.com)
