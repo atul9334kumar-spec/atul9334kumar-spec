@@ -1,246 +1,69 @@
-# 👋 Hi, I'm Atul Kumar
+# Hi there, I'm Atul Kumar 👋
 
-### 🚀 Senior Software Engineer | Python Full-Stack Developer | Cloud & DevOps | AI/LLM Integration
-
-**8+ Years of Software Development Experience**  
-📍 Gurgaon, India
-
-I build scalable web applications, REST APIs, and AI-powered business solutions. My experience spans backend and full-stack development, database design, requirements analysis, application troubleshooting, and production support. I also have hands-on experience with AWS EC2, Docker, Linux, Git, and Bitbucket workflows.
+**Senior Software Engineer & DevOps Enthusiast** based in Gurgaon, India[cite: 1].  
+Specializing in robust backend architectures (**Python / Django / FastAPI**)[cite: 1], production-grade **AI/LLM integrations**[cite: 1], and **DevOps automation**[cite: 1] to deliver scalable, end-to-end web platforms[cite: 1].
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 What I Do
 
-- 💼 Senior Software Developer at Global Enterprise Mobility Alliance India Pvt. Ltd.
-- 🐍 Backend development with Python, Django, FastAPI, PHP, and Symfony.
-- 🎨 Full-stack application development with React and Angular.
-- 🤖 LLM integration using Ollama, OpenAI APIs, and Google Gemini.
-- ☁️ Hands-on experience with AWS EC2, Docker, Linux, Git, and Bitbucket.
-- 🔐 REST API development and Keycloak-based authentication.
-- 🗄️ Database design, CRUD functionality, and relational database integration.
-- 🤝 Client communication, requirements gathering, and technical documentation.
-- 🏗️ Interested in scalable system architecture, cloud engineering, DevOps automation, and AI-powered applications.
+- ⚙️ **Backend & Architecture:** 8+ years designing scalable RESTful APIs, relational/NoSQL schemas, and secure authentication (Keycloak, OAuth)[cite: 1, 2].
+- 🤖 **Applied AI & LLMs:** Production integration of LLMs (Ollama, OpenAI, Gemini) for document triage, sentiment analysis, and multi-modal complaint workflows[cite: 1].
+- ☁️ **DevOps & Cloud:** Containerizing distributed microservices with **Docker**, deploying cloud infrastructure on **AWS**, managing CI/CD pipelines, and streamlining Linux server environments[cite: 1].
+- 🤝 **End-to-End Delivery:** Translating business requirements directly into production-ready software with structured testing and observability[cite: 1, 2].
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+**DevOps & Infrastructure:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Server_Admin-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### ⚙️ Backend Development
+**Databases & Storage:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🤖 AI, Machine Learning & LLM Integration
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-- LLM API integration and prompt engineering
-- AI-assisted text processing and classification
-- Complaint categorization and priority detection
-- Workflow automation and human-in-the-loop review
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud, DevOps & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-**Hands-on areas**
-- AWS EC2 and cloud-based application hosting/deployment.
-- Docker-based application containers and development environments.
-- Linux-based development and server environments.
-- Git version control, branching, merging, and collaboration using Bitbucket.
-- Application configuration, troubleshooting, and deployment workflows.
-
-**Currently learning / exploring**
-- CI/CD pipeline automation
-- Infrastructure as Code (Terraform)
-- Container orchestration with Kubernetes
-- Application monitoring and cloud infrastructure automation
-
-### 🔐 Security, Tools & Engineering Practices
-
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-- RESTful API design and third-party service integration
-- Authentication and authorization with Keycloak
-- Unit testing and structured error logging
-- SDLC, requirements analysis, and technical documentation
-- Client communication and stakeholder coordination
+**AI & LLM Tooling:**  
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+### 📌 Highlighted Projects & Solutions
 
-### Senior Software Developer
-**Global Enterprise Mobility Alliance India Pvt. Ltd. | Apr 2023 – Present**
-
-- Develop Python backend services and REST APIs.
-- Integrate LLM features into business workflows and internal tools.
-- Work with clients and stakeholders to clarify requirements and prepare technical specifications.
-- Build and maintain applications using Python, React, SQL Server, Django, and related technologies.
-- Use testing and structured logging to improve reliability and maintainability.
-
-### Full Stack Developer
-**Remote | Feb 2021 – Mar 2023**
-
-- Delivered full-stack features across client projects.
-- Worked on database design, backend logic, secured REST APIs, and third-party integrations.
-- Supported document synchronization workflows and production applications.
-- Collaborated directly with clients on requirements and delivery.
-
-### Web Developer
-**Gurgaon | Aug 2018 – Feb 2021**
-
-- Delivered end-to-end development for public-facing websites and web platforms.
-- Worked on database design, development, stakeholder requirements, and ongoing support.
+- **AI-Powered Multi-Modal Triage System:** Engineered a complaint classification platform integrating local LLMs (Ollama) and OpenAI to parse voice, image, and PDF inputs with human-in-the-loop review[cite: 1, 2].
+- **Internal Monitoring & Operations Tools:** Developed Python/FastAPI microservices featuring Keycloak authentication, SQL Server integration, and real-time status diagnostics[cite: 2].
+- **Cloud-Native Deployments:** Containerized multi-tier web applications using Docker, implementing persistent volumes, reverse proxies, and automated environment provisioning[cite: 1].
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Activity & Stats
 
-### 1. 🤖 NCSC — AI Complaint Management System
-
-An AI-assisted complaint management platform designed to process complaints submitted through voice, images, PDFs, and text, including regional Indian language inputs.
-
-**Key contributions**
-- Developed the Python/Django backend and REST APIs.
-- Integrated LLM-based complaint classification and priority detection.
-- Designed human-in-the-loop validation so officers can review AI-generated results.
-- Integrated AI components into complaint triage and routing workflows.
-
-**Technologies:** Python, Django, REST APIs, Ollama/OpenAI, AI/LLM integration.
-
-### 2. 🔐 Firewall Monitoring, Readiness Tool & Red Button
-
-Internal business tools for monitoring, operational readiness, and data processing.
-
-**Key contributions**
-- Designed and developed Python REST APIs.
-- Integrated Keycloak-based authentication.
-- Built a responsive React frontend.
-- Integrated Ollama-based LLM features for data processing, automation, and text analysis.
-- Added unit tests and structured error logging.
-
-**Technologies:** Python, React, Microsoft SQL Server, Keycloak, Ollama, REST APIs.
-
-### 3. 💻 MacBook Inventory Management
-
-A database-driven inventory management application built with Django.
-
-**Key contributions**
-- Designed the database schema.
-- Implemented end-to-end CRUD functionality.
-- Improved usability through asynchronous data handling and UI enhancements.
-
-**Technologies:** Python, Django, MySQL.
-
-### 4. 📊 FinancialCompare
-
-A financial data comparison application for processing and comparing uploaded CSV data.
-
-**Key areas**
-- Django application development
-- CSV data processing and comparison
-- User-specific data ownership
-- Database integration and Docker-based development
-
-**Technologies:** Python, Django, MySQL, Tailwind CSS, Docker.
-
-> Note: Only publish project details and source code that you are authorized to share publicly.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Atul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 🏗️ Engineering Expertise
+### 📫 Connect With Me
 
-| Area | Skills |
-|---|---|
-| Backend Engineering | Python, Django, FastAPI, Symfony, REST APIs |
-| Full-Stack Development | React, Angular, HTML, CSS |
-| AI & LLM Integration | Ollama, OpenAI API, Google Gemini |
-| Database Engineering | Schema design, CRUD, SQL databases |
-| Cloud & Infrastructure | AWS EC2, Linux, Docker |
-| Version Control | Git, Bitbucket |
-| Application Security | Keycloak, authentication, API security |
-| Software Quality | Unit testing, structured logging, maintainability |
-| Requirements & Delivery | Client interaction, specifications, SDLC |
-
----
-
-## 📚 Current Learning Goals
-
-- Building production-oriented AI and LLM applications.
-- Improving Python backend architecture and API performance.
-- Exploring local LLM deployment and AI workflow automation.
-- Learning CI/CD, Terraform, Kubernetes, and cloud monitoring.
-- Strengthening system design and software architecture.
-- Building secure, maintainable, and scalable web applications.
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atul9334kumar-spec&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atul9334kumar-spec&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🎓 Education
-
-- **Bachelor of Science (Information Technology)** — Kuvempu University
-- **GNIIT (Software Engineering)** — NIIT
-
-## 🌐 Languages
-
-English · Hindi
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, exchanging technical ideas, and collaborating on meaningful software projects.
-
-- 🐙 **GitHub:** [@atul9334kumar-spec](https://github.com/atul9334kumar-spec)
-- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- 📧 **Email:** atul.9334kumar@gmail.com
-- 📍 **Location:** Gurgaon, India
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-**Let's build something meaningful with code! 🚀**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![Email](https://img.shields.io/badge/Email-atul.9334kumar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.9334kumar@gmail.com)[cite: 1]
+[![Location](https://img.shields.io/badge/Location-Gurgaon%2C%20India-lightgrey?style=flat-square&logo=google-maps&logoColor=red)](https://maps.google.com)[cite: 1]
