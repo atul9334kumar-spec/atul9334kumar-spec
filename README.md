@@ -56,7 +56,7 @@ Specializing in robust backend architectures (**Python / Django / FastAPI**), pr
 I'm interested in connecting with developers, exchanging technical ideas, and collaborating on meaningful software projects.
 
 - 🐙 **GitHub:** [@atul9334kumar-spec](https://github.com/atul9334kumar-spec)
-- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/in/atul-kumar-48ab11164/?isSelfProfile=true)
 - 📧 **Email:** atul.9334kumar@gmail.com
 - 📍 **Location:** Gurgaon, India
 
