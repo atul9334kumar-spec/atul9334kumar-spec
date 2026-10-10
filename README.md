@@ -53,12 +53,12 @@ Specializing in robust backend architectures (**Python / Django / FastAPI**), pr
 
 ---
 
-### 📊 GitHub Activity & Stats
+I'm interested in connecting with developers, exchanging technical ideas, and collaborating on meaningful software projects.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Atul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+- 🐙 **GitHub:** [@atul9334kumar-spec](https://github.com/atul9334kumar-spec)
+- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- 📧 **Email:** atul.9334kumar@gmail.com
+- 📍 **Location:** Gurgaon, India
 
 ---
 
