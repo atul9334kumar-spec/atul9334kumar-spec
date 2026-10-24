@@ -38,6 +38,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TiDB](https://img.shields.io/badge/TiDB-E30C34?style=flat-square&logo=tidb&logoColor=white)
 
 **AI & LLM Tooling:**  
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat-square)
