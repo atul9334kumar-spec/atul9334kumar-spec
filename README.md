@@ -1,16 +1,17 @@
 # Hi there, I'm Atul Kumar 👋
 
-**Senior Software Engineer & DevOps Enthusiast** based in Gurgaon, India.  
-Specializing in robust backend architectures (**Python / Django / FastAPI**), production-grade **AI/LLM integrations**, and **DevOps automation** to deliver scalable, end-to-end web platforms.
+**Senior Software Engineer | Python · Django · FastAPI · GenAI & LLMs · React** based in Gurgaon, India.  
+8+ years of experience building REST APIs, enterprise workflows, document-processing pipelines, and AI-assisted applications, from backend architecture to full-stack delivery.
 
 ---
 
 ### 🚀 What I Do
 
-- ⚙️ **Backend & Architecture:** 8+ years designing scalable RESTful APIs, relational/NoSQL schemas, and secure authentication (Keycloak, OAuth).
-- 🤖 **Applied AI & LLMs:** Production integration of LLMs (Ollama, OpenAI, Gemini) for document triage, sentiment analysis, and multi-modal complaint workflows.
-- ☁️ **DevOps & Cloud:** Containerizing distributed microservices with **Docker**, deploying cloud infrastructure on **AWS**, managing CI/CD pipelines, and streamlining Linux server environments.
-- 🤝 **End-to-End Delivery:** Translating business requirements directly into production-ready software with structured testing and observability.
+- ⚙️ **Backend & Architecture:** Designing scalable REST APIs, asynchronous FastAPI services, and relational/NoSQL schemas, with secure authentication and access control (Keycloak, OAuth2/OIDC, RBAC).
+- 🤖 **Applied AI & LLMs:** Integrating LLMs (Gemini, OpenAI, and local models via Ollama) for document extraction, complaint classification, log analysis, and multimodal (voice, PDF, image, text) workflows, with human-in-the-loop validation.
+- 🌐 **Full-Stack Development:** Building user-facing applications with React, Angular, JavaScript, Tailwind CSS, and Bootstrap on top of Django and FastAPI backends.
+- ☁️ **Cloud & DevOps:** Working with Docker and AWS, CI/CD workflows, Git/Bitbucket, and production support including releases, hotfixes, and tier-3 escalations.
+- 🤝 **End-to-End Delivery:** Running technical discovery with enterprise clients, turning business needs into system specifications, and delivering tested, production-ready software.
 
 ---
 
@@ -47,16 +48,17 @@ Specializing in robust backend architectures (**Python / Django / FastAPI**), pr
 
 ### 📌 Highlighted Projects & Solutions
 
-- **AI-Powered Multi-Modal Triage System:** Engineered a complaint classification platform integrating local LLMs (Ollama) and OpenAI to parse voice, image, and PDF inputs with human-in-the-loop review.
-- **Internal Monitoring & Operations Tools:** Developed Python/FastAPI microservices featuring Keycloak authentication, SQL Server integration, and real-time status diagnostics.
-- **Cloud-Native Deployments:** Containerized multi-tier web applications using Docker, implementing persistent volumes, reverse proxies, and automated environment provisioning.
+- **NCSC-AI, Complaint Management Platform:** Built FastAPI services that accept voice, PDF, scanned-image, and text complaints in regional Indian languages. Ollama and OpenAI workflows classify complaints, extract priority attributes, and support routing (**40%+ improvement in routing efficiency**), with case officers verifying AI output before any downstream action. Asynchronous task handling and centralized error logging helped sustain **99.9% uptime**.
+- **GEMA Pulse, Enterprise HR & Operations Portal:** Django portal with a Gemini + OCR workflow that extracts vendor details, currencies, dates, and line items from receipts for reimbursement, plus timesheet controls, leave management, role-based approvals, and automated email notifications.
+- **Firewall Monitoring Tool:** Django REST APIs serving firewall telemetry, traffic events, and policy violations to a dashboard. A locally hosted Ollama model analyzes logs for suspicious IP/port behavior without sending data to external services, secured with Keycloak OAuth2/OIDC and role-based access.
+- **Readiness Assessment & Audit Tool:** Django and MSSQL backend that assesses configuration baselines and deployment readiness, uses a local LLM to turn scan outputs and error traces into remediation reports, and is covered by Pytest unit and integration tests (**85%+ coverage**).
 
 ---
 
 I'm interested in connecting with developers, exchanging technical ideas, and collaborating on meaningful software projects.
 
 - 🐙 **GitHub:** [@atul9334kumar-spec](https://github.com/atul9334kumar-spec)
-- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/in/atul-kumar-48ab11164/?isSelfProfile=true)
+- 💼 **LinkedIn:** [Atul Kumar](https://www.linkedin.com/in/atul-kumar-48ab11164/)
 - 📧 **Email:** atul.9334kumar@gmail.com
 - 📍 **Location:** Gurgaon, India
 
@@ -64,6 +66,6 @@ I'm interested in connecting with developers, exchanging technical ideas, and co
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-48ab11164/)
 [![Email](https://img.shields.io/badge/Email-atul.9334kumar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.9334kumar@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Gurgaon%2C%20India-lightgrey?style=flat-square&logo=google-maps&logoColor=red)](https://maps.google.com)
